@@ -1,5 +1,5 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef MAIN_H
+#define MAIN_H
 int _printf(const char *format, ...);
 void print_binary(unsigned int n);
-#endif MAIN.H
+#endif /* MAIN_H */
